@@ -5,7 +5,7 @@ baseline: spec
 				
        "Packages"
        spec package: 'Sound'
-				with: [ spec requires: #('SoundMorphicExtension'. 'SoundMorphicUserInterface'. SoundScores) ].
+				with: [ spec requires: #('SoundMorphicExtension'. 'SoundMorphicUserInterface'. 'SoundScores') ].
 			spec package: 'SoundMorphicExtension'.
 			spec package: 'SoundMorphicUserInterface'.
 			spec package: 'SoundScores']
