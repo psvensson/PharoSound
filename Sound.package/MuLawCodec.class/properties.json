@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "SoundCodec",
+	"category" : "Sound-Synthesis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DecodingTable"
+	],
+	"instvars" : [ ],
+	"name" : "MuLawCodec",
+	"type" : "normal"
+}

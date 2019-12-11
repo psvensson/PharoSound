@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Sound-Synthesis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nu",
+		"n",
+		"sinTable",
+		"permTable",
+		"realData",
+		"imagData",
+		"window"
+	],
+	"name" : "FFT",
+	"type" : "normal"
+}

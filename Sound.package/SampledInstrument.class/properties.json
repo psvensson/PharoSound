@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Sound-Synthesis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sustainedSoft",
+		"sustainedLoud",
+		"staccatoSoft",
+		"staccatoLoud",
+		"sustainedThreshold",
+		"loudThreshold"
+	],
+	"name" : "SampledInstrument",
+	"type" : "normal"
+}

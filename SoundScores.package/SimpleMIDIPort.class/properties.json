@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SoundScores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DefaultPortNumber",
+		"InterfaceClockRate"
+	],
+	"instvars" : [
+		"portNumber",
+		"accessSema",
+		"lastCommandByteOut"
+	],
+	"name" : "SimpleMIDIPort",
+	"type" : "normal"
+}

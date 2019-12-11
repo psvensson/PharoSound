@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "BorderedMorph",
+	"category" : "SoundMorphicUserInterface",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"graphic",
+		"sound"
+	],
+	"name" : "InterimSoundMorph",
+	"type" : "normal"
+}

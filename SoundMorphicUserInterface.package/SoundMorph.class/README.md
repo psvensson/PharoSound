@@ -1,0 +1,1 @@
+Note: as of December 2000, this does not work. SoundMorph>>buildImage requires the sound to implement #volumeEnvelopeScaledTo: and as yet, no one does.

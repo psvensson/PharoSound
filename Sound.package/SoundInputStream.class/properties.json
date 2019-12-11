@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "SoundRecorder",
+	"category" : "Sound-Synthesis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bufferSize",
+		"mutex"
+	],
+	"name" : "SoundInputStream",
+	"type" : "normal"
+}

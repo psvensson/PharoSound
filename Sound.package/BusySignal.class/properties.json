@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "FMSound",
+	"category" : "Sound-Synthesis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BusySignal",
+	"type" : "normal"
+}

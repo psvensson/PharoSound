@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Morph",
+	"category" : "SoundScores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SoundPlaying"
+	],
+	"instvars" : [
+		"trackIndex",
+		"indexInTrack",
+		"hitLoc",
+		"editMode",
+		"selected",
+		"notePlaying"
+	],
+	"name" : "PianoRollNoteMorph",
+	"type" : "normal"
+}

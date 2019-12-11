@@ -1,0 +1,28 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Sound-Synthesis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"points",
+		"loopStartIndex",
+		"loopEndIndex",
+		"loopStartMSecs",
+		"loopMSecs",
+		"target",
+		"updateSelector",
+		"loopEndMSecs",
+		"endMSecs",
+		"scale",
+		"decayScale",
+		"lastValue",
+		"currValue",
+		"valueIncr",
+		"nextRecomputeTime",
+		"noChangesDuringLoop"
+	],
+	"name" : "Envelope",
+	"type" : "normal"
+}

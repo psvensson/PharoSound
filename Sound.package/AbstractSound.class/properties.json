@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Sound-Synthesis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FloatScaleFactor",
+		"MaxScaledValue",
+		"PitchesForBottomOctave",
+		"ScaleFactor",
+		"Sounds",
+		"TopOfBottomOctave",
+		"UnloadedSnd"
+	],
+	"instvars" : [
+		"envelopes",
+		"mSecsSinceStart",
+		"samplesUntilNextControl",
+		"scaledVol",
+		"scaledVolIncr",
+		"scaledVolLimit"
+	],
+	"name" : "AbstractSound",
+	"type" : "normal"
+}

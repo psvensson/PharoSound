@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FMSound",
+	"category" : "Sound-Synthesis",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FMBassoonSound",
+	"type" : "normal"
+}

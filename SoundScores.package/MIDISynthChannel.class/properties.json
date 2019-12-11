@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SoundScores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"channel",
+		"instrument",
+		"muted",
+		"masterVolume",
+		"channelVolume",
+		"pan",
+		"pitchBend",
+		"activeSounds"
+	],
+	"name" : "MIDISynthChannel",
+	"type" : "normal"
+}

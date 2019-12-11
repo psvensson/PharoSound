@@ -1,0 +1,24 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "SoundScores",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream",
+		"fileType",
+		"trackCount",
+		"ticksPerQuarter",
+		"tracks",
+		"trackInfo",
+		"tempoMap",
+		"strings",
+		"track",
+		"trackStream",
+		"activeEvents",
+		"maxNoteTicks"
+	],
+	"name" : "MIDIFileReader",
+	"type" : "normal"
+}
