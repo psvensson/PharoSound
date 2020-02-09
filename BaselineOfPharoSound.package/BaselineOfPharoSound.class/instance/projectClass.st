@@ -1,3 +1,0 @@
-baselines
-projectClass
-	^ MetacelloCypressBaselineProject

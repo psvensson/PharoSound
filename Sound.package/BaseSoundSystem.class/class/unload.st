@@ -1,3 +1,0 @@
-initialization
-unload
-	self resetSoundSystem
